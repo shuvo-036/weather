@@ -42,7 +42,7 @@ export default function Infobox({info}){
         </Typography>
       </CardContent>
       {/* <p style={{color:"green"}}>Thanks and Love from Shuvo</p> */}
-      <p>Craete by <b>Golam Moniruzzaman 😊</b></p>
+      <p>Create by <b>Golam Moniruzzaman 😊</b></p>
     </Card>
         </div>
     )
