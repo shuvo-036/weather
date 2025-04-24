@@ -25,7 +25,7 @@ let updateinfo=(newinfo)=>{
       <Infobox info={weatherinfo}/>
       
       </div>
-     <p style={{color:"red"}}>copywrite 2025</p>
+     <p style={{color:"red"}}>@ copywrite 2025</p>
       </>
       
 
